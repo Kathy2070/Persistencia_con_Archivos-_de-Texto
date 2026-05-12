@@ -1,0 +1,5 @@
+Nombre: Kathy
+Edad: 19
+Carrera: Sistema
+Promedio: 7
+------------------------
